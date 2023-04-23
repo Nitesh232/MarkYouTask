@@ -32,4 +32,4 @@ The Task Tracker is built using the following technologies:
 
 The Task Tracker is a useful tool for individuals to manage their daily tasks and ensure timely completion of tasks. It provides an easy-to-use interface, task management, and more. The Task Tracker is a great addition to the productivity tools for businesses, teams, and individuals.
 
-
+**Note:-** **This project is completed with all topics/features mentioned above. In future, I have to work on many other features to implement like notifications(via mail/message queue), multi-level authorization, etc. so, to implement those features, learning new topics and framworks(Spring).**
